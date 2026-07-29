@@ -14,7 +14,7 @@ export default function WhatsappCTA() {
     return () => clearTimeout(timer);
   }, []);
 
-  const whatsappUrl = "https://wa.me/919876543210?text=Hi%20Bizvelo%20Technology%2C%20I%20would%20like%20to%20request%20a%20free%20demo%2Fconsultation%20for%20my%20business.";
+  const whatsappUrl = "https://wa.me/919677350853?text=Hi%20Bizvelo%20Technology%2C%20I%20would%20like%20to%20request%20a%20free%20demo%2Fconsultation%20for%20my%20business.";
 
   return (
     <div className="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-3 font-sans">

@@ -21,7 +21,7 @@ export default function SchemaMarkup() {
     ],
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+91-9876543210", // Example number
+      "telephone": "+91-9677350853", // Support number
       "contactType": "sales",
       "areaServed": "IN",
       "availableLanguage": ["en", "ta"]
@@ -36,7 +36,7 @@ export default function SchemaMarkup() {
     "image": `${baseUrl}/images/hero-bg.jpg`,
     "@id": `${baseUrl}/#localbusiness`,
     "url": baseUrl,
-    "telephone": "+919876543210",
+    "telephone": "+919677350853",
     "priceRange": "$$",
     "address": {
       "@type": "PostalAddress",

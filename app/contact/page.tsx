@@ -111,7 +111,7 @@ function ContactContent() {
                   <div>
                     <h3 className="text-sm font-poppins font-bold text-slate-900 uppercase tracking-wider">Phone Support</h3>
                     <p className="text-slate-600 text-sm leading-relaxed mt-1">
-                      Sales & Support: <a href="tel:+919876543210" className="text-blue-600 hover:text-blue-700 transition-colors font-semibold">+91 98765 43210</a>
+                      Sales & Support: <a href="tel:+919677350853" className="text-blue-600 hover:text-blue-700 transition-colors font-semibold">+91 96773 50853</a>
                     </p>
                   </div>
                 </div>
@@ -155,7 +155,7 @@ function ContactContent() {
                     <h3 className="text-sm font-poppins font-bold text-slate-900">Instant Chat Available</h3>
                     <p className="text-xs text-slate-600 mt-0.5">Need immediate answers? Start a WhatsApp conversation.</p>
                     <a 
-                      href="https://wa.me/919876543210" 
+                      href="https://wa.me/919677350853" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="text-xs font-bold text-emerald-600 hover:text-emerald-700 transition-colors uppercase tracking-wider mt-2 inline-block font-semibold"
@@ -209,7 +209,7 @@ function ContactContent() {
                           required
                           value={formData.phone}
                           onChange={handleInputChange}
-                          placeholder="e.g. +91 98765 43210"
+                          placeholder="e.g. +91 96773 50853"
                           className="w-full bg-white border border-slate-200 focus:border-blue-500 focus:ring-1 focus:ring-blue-500 rounded-xl px-4 py-2.5 text-sm text-slate-800 placeholder-slate-400 outline-none transition-colors"
                         />
                       </div>

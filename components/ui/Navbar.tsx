@@ -136,7 +136,7 @@ export default function Navbar() {
                   Get Free Demo
                 </Button>
                 <Button 
-                  href="https://wa.me/919876543210" 
+                  href="https://wa.me/919677350853" 
                   variant="outline" 
                   size="md" 
                   onClick={() => setIsOpen(false)}

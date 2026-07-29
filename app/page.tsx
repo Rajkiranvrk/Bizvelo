@@ -244,7 +244,7 @@ export default function Home() {
 
               <div className="flex gap-4">
                 <a 
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/919677350853"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-emerald-600 hover:text-emerald-700 transition-colors"
@@ -296,7 +296,7 @@ export default function Home() {
                           required
                           value={formData.phone}
                           onChange={handleInputChange}
-                          placeholder="e.g. +91 98765 43210"
+                          placeholder="e.g. +91 96773 50853"
                           className="w-full bg-white border border-slate-200 focus:border-blue-500 focus:ring-1 focus:ring-blue-500 rounded-xl px-4 py-2.5 text-sm text-slate-800 placeholder-slate-400 outline-none transition-colors"
                         />
                       </div>
